@@ -1,6 +1,6 @@
 <div>
-  <h1>Hi, I'm Astra!</h1>
-  <img src="img/PUNXSimon_flirty.png" style="height: 10em; float: right; margin-right: 10em">
+  <img align="right" src="img/PUNXSimon_flirty.png" style="height: 10em; float: right; margin-right: 10em">
+  <h1 align="left">Hi, I'm Astra!</h1>
 </div>
 
 ## About Me
