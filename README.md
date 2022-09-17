@@ -1,5 +1,5 @@
 <div>
-  <img align="right" src="img/PUNXSimon_flirty.png" style="height: 20em; float: right; margin-right: 10em">
+  <img align="right" src="img/PUNXSimon_flirty.png" style="height: 20em; float: right; margin-right: 20em">
   <h1 align="left">Hi, I'm Astra!</h1>
 </div>
 
