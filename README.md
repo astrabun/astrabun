@@ -11,7 +11,7 @@
 - 🐍 python is my go-to language for most lil things that i need to automate quickly
 - 🌱 i’m spent a little time practicing golang and typescript, and typescript was more related to my day-to-day, so i mainly focused on that for a while
 - 💎 i'm also looking to learn ruby on rails, because it seems fun!
-- 📫 [Website: astrabun.com](https://astrabun.com)
+- 📫 [website: astrabun.com](https://astrabun.com)
 
 ## Environment
 
