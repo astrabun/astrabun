@@ -3,8 +3,6 @@
   <h1 align="left">Hi, I'm Astra!</h1>
 </div>
 
-<div style="z-index: 0;">
-  
 ## About Me
 
 - 🐰 i'm a furry and a rabbit
@@ -22,5 +20,3 @@
 [![Laptop](https://img.shields.io/badge/Laptop-Windows%2011-informational?style=for-the-badge&logo=appveyor)]()
 
 <!--[![Development VM](https://img.shields.io/badge/Development%20VM-Ubuntu%2022%2E04%2E1%20LTS%20%28Jammy%20Jellyfish%29-informational?style=for-the-badge&logo=appveyor)]()-->
-
-</div>
