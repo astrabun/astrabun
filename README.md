@@ -15,7 +15,7 @@
 
 ## Environment
 
-[![Desktop](https://img.shields.io/badge/Desktop-Windows%2011-informational?style=for-the-badge&logo=appveyor)]()
+[![Desktop](https://img.shields.io/badge/Desktop-Arch%20Linux%2011-informational?style=for-the-badge&logo=appveyor)]()
 
 [![Laptop](https://img.shields.io/badge/Laptop-Macbook%20Pro%20M4%20Max-informational?style=for-the-badge&logo=appveyor)]()
 
